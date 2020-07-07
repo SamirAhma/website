@@ -10,7 +10,7 @@ const Header = () => (
 
     {/* <a href="#portfolio">Portfolio</a>
     <Link to="contact_us">Contact Us</Link> */}
-    <input type="checkbox" class="menu-btn" id="menu-btn" />
+    <input type="checkbox" id="menu-btn" />
 
     <label htmlFor="menu-btn" className="menu-icon">
       <span className="menu-icon__line"></span>
